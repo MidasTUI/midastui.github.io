@@ -12,3 +12,5 @@
  .project-page .project-metric-row .project-metric { margin-bottom: 0; }
  .project-page .project-results-table { font-size: 14px; }
 }
+
+.project-page .project-figure.state-model-figure { width: 70%; height: auto; display: block; margin-left: auto; margin-right: auto; }
