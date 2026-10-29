@@ -8,3 +8,5 @@ Source: assets/MidasTUI.pdf, supplied author preprint.
 - Preferences: pp. 12–13, Figure 12: overall 8/10; stability 9/10; perceived precision 8/10; responsiveness 8/10; naturalness 7/10.
 - Application image is rendered from figure/src/MidasTUI_application.pdf, the exact paper figure; never substitute application_scenario.png.
 - Original figure PDFs rasterized without content changes.
+
+- Pipeline figure updated on 2026-10-28 from the author-supplied `/Users/wen/Desktop/AdaptiveTUI/UIST2026/Midas_Figure/MidasTUI_system_pipeline_final.pdf`, rasterized at 2400 px wide without changing its content.
